@@ -1,4 +1,4 @@
-package Etablissement;
+package GradeHistorique;
 
 public class Tutor {
     private int id;
